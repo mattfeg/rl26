@@ -35,13 +35,13 @@ function mostrarResultado(acertos, numerosPalpite, numerosSorteados) {
     let mensagem
     switch (acertos) {
         case 6:
-            mensagem = 'Parabéns, você ganhou a SENA!'
+            mensagem = 'O gerente do seu banco vai querer uma selfi com você , você ganhou a SENA!'
             break
         case 5:
-            mensagem = 'Parabéns, você ganhou a QUINA!'
+            mensagem = 'Você quase se aposentou, você ganhou a QUINA!'
             break
         case 4:
-            mensagem = 'Parabéns, você ganhou a QUADRA!'
+            mensagem = 'Você teve sorte, mas nem tanta, você ganhou a QUADRA!'
             break
         default:
             mensagem = 'Você não ganhou. Tente novamente!'
