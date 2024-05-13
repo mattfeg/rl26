@@ -8,7 +8,7 @@ Participantes:
 2. Cauã Victor Jacaúna Alves
 3. Francisco Iranildo de Sousa Avelino
 4. Ester de Holanda Farias 
-5. ...
+5. Raguel Werbston Bezerra de Oliveira
 6. ...
 
 
