@@ -9,7 +9,7 @@ Participantes:
 3. Francisco Iranildo de Sousa Avelino
 4. Ester de Holanda Farias 
 5. Raguel Werbston Bezerra de Oliveira
-6. ...
+6. Italo da Costa Sousa
 
 
 # Como usar
